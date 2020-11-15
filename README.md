@@ -1,6 +1,6 @@
 # PGP-Keys
 
-This repository includes all PGP keys that I currently use, have used in the past and those that have been compromised.  
+This repository includes all public PGP keys that I currently use, have used in the past and those that have been compromised.  
   
 The exact dates for when the keys were being used is included so anything signed outside of those dates did not originate from me.  
 All keys that are used after they have been marked as compromised are not to be considered as being a legitimate message from me.  
