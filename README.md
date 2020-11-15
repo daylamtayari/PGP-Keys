@@ -8,7 +8,7 @@ All keys that are used after they have been marked as compromised are not to be 
 
 # Active keys:
 
-- `EA73 8D80 11BB 6318` 07 Nov 2020-
+- `EA73 8D80 11BB 6318` 06 Nov 2020-
 	- [ASC File](https://github.com/daylamtayari/PGP-Keys/tree/master/Key_Files/EA73-8D80-11BB-6318.asc "ASC File"): [EA73-8D80-11BB-6318.asc](https://github.com/daylamtayari/PGP-Keys/tree/master/Key_Files/EA73-8D80-11BB-6318.asc "EA73-8D80-11BB-6318.asc")  
 		Checksum (SHA512): CA65584B3FD9C8BC2FDB24FF0B8BD6830DBA546DA272B2F4F862A73373976F1FB37F4E034EAE812A61AA1D43322DF0CC702604F9B10CAE6BE42F93F8D35E231B
 	- [PGP File](http:/http://https://github.com/daylamtayari/PGP-Keys/tree/master/Key_Files/EA73-8D80-11BB-6318.pgp "PGP File"): [EA73-8D80-11BB-6318.pgp](https://github.com/daylamtayari/PGP-Keys/tree/master/Key_Files/EA73-8D80-11BB-6318.pgp "EA73-8D80-11BB-6318.pgp")  
