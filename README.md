@@ -8,7 +8,7 @@ All keys that are used after they have been marked as compromised are not to be 
 
 # Active keys:
 
-- `EA73 8D80 11BB 6318` 06 Nov 2020-
+- `EA738D8011BB6318` 06 Nov 2020-
 	- [ASC File](https://github.com/daylamtayari/PGP-Keys/tree/master/Key_Files/EA73-8D80-11BB-6318.asc "ASC File"): [EA73-8D80-11BB-6318.asc](https://raw.github.com/daylamtayari/PGP-Keys/master/Key_Files/EA73-8D80-11BB-6318.asc "EA73-8D80-11BB-6318.asc")  
 		Checksum (SHA512): CA65584B3FD9C8BC2FDB24FF0B8BD6830DBA546DA272B2F4F862A73373976F1FB37F4E034EAE812A61AA1D43322DF0CC702604F9B10CAE6BE42F93F8D35E231B
 	- [PGP File](http:/http://https://github.com/daylamtayari/PGP-Keys/tree/master/Key_Files/EA73-8D80-11BB-6318.pgp "PGP File"): [EA73-8D80-11BB-6318.pgp](https://github.com/daylamtayari/PGP-Keys/tree/master/Key_Files/EA73-8D80-11BB-6318.pgp "EA73-8D80-11BB-6318.pgp")  
@@ -16,7 +16,7 @@ All keys that are used after they have been marked as compromised are not to be 
 
 # Revoked/Expired keys:
 
-- `6D2B 2B46 D657 C5D9` 13 Nov 2020 - 13 March 2021
+- `6D2B2B46D657C5D9` 13 Nov 2020 - 13 March 2021
 	- [ASC File](https://github.com/daylamtayari/PGP-Keys/tree/master/Key_Files/6D2B-2B46-D657-C5D9.asc "ASC File"): [6D2B-2B46-D657-C5D9.asc](https://raw.github.com/daylamtayari/PGP-Keys/master/Key_Files/6D2B-2B46-D657-C5D9.asc "6D2B-2B46-D657-C5D9.asc")  
 		Checksum (SHA512): A0BF3D8AF2946830EE016F938B9C4BF3FC200AB11ECD1EBF9B1FBA11EFEDAF431A3C5EA43344568BC666FC80FA4AD138641DFBF713583217ABAFD46403CD0B33
 	- [PGP File](http:/http://https://github.com/daylamtayari/PGP-Keys/tree/master/Key_Files/6D2B-2B46-D657-C5D9.pgp "PGP File"): [6D2B-2B46-D657-C5D9.pgp](https://raw.github.com/daylamtayari/PGP-Keys/master/Key_Files/6D2B-2B46-D657-C5D9.pgp "6D2B-2B46-D657-C5D9.pgp")  
