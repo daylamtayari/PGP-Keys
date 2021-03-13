@@ -1,4 +1,4 @@
-# PGP-Keys
+# PGP Keys
 
 This repository includes all public PGP keys that I currently use, have used in the past and those that have been compromised.  
   
