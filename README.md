@@ -20,6 +20,13 @@ All keys that are used after they have been marked as compromised are not to be 
 		Checksum (SHA 512): f1bddbd6d95cdbb772dfee7ef271e8a43c6b151aad368468e04769f6f2ae471a4ca0ed26db7860fb8d43f466c013c7116a37f321283e5905618169a78abf74e1
 	- [GPG File](https://github.com/daylamtayari/PGP-Keys/tree/master/Key_Files/75736A28549968E1.gpg "GPG File"): [75736A28549968E1.gpg](https://raw.github.com/daylamtayari/PGP-Keys/master/Key_Files/75736A28549968E1.gpg "75736A28549968E1.gpg")  
 		Checksum (SHA 512): 8fb0d0ed9a234a8c8abd197ca2a636a7f409354cdb09ae0bd04eec45850949737ad6d5098cc7a19f8c07e7ccb9b500ee958e15611bd0bd258a2295dcfe7d9ab4
+  
+- `875D9BE100A6A142` 16 March 2021 - 15 March 2024  
+	Comment: **Academic use ONLY, all other use is fraudulent.** More details in key comments.
+	- [ASC File](https://github.com/daylamtayari/PGP-Keys/tree/master/Key_Files/875D9BE100A6A142.asc "ASC File"): [875D9BE100A6A142.asc](https://raw.github.com/daylamtayari/PGP-Keys/master/Key_Files/875D9BE100A6A142.asc "875D9BE100A6A142.asc")  
+		Checksum (SHA 512): d3c73c4fca4c098ab437194d299decbc88bfab667135bb8cb9e4769fefb6a0079cca33683df4d2cb285f7cb935f9a407ac153ff7c208d8c396aa18d43b37999d
+	- [GPG File](https://github.com/daylamtayari/PGP-Keys/tree/master/Key_Files/875D9BE100A6A142.gpg "GPG File"): [875D9BE100A6A142.gpg](https://raw.github.com/daylamtayari/PGP-Keys/master/Key_Files/875D9BE100A6A142.gpg "875D9BE100A6A142.gpg")  
+		Checksum (SHA 512): 03e555985fdbb59ad88830d324de7b8de999ea5d3be31ed16e79d7df29d9097e3ac61d145934f3a80eed668f70d98e325923c28de70ec5faad3cf071a1a09881
 
 # Revoked/Expired keys:
 
