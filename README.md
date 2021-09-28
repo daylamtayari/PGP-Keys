@@ -14,6 +14,9 @@ All keys that are used after they have been marked as compromised are not to be 
 	- [GPG File](http:/http://https://github.com/daylamtayari/PGP-Keys/tree/master/Key_Files/EA73-8D80-11BB-6318.pgp "GPG File"): [EA73-8D80-11BB-6318.gpg](https://raw.github.com/daylamtayari/PGP-Keys/master/Key_Files/EA73-8D80-11BB-6318.gpg "EA73-8D80-11BB-6318.gpg")  
 		Checksum (SHA 512): B6EA8DA2359BEE7B55A3126D0099E8881D579B8CA2F5234420B35EE997A05AFBA383425FEA0B7A2352AE576EF077A1ACA3B36E4D746A9133EB56C5BA482FC74F
 
+- `1EBE542FEC563CF3` 28 September 2021 - 27 December 2021
+	- [ASC File](https://git.tayari.gg/tayari/PGP-Keys/-/blob/master/Key_Files/1EBE542FEC563CF3.asc "ASC File"): [1EBE542FEC563CF3.asc](https://git.tayari.gg/tayari/PGP-Keys/-/raw/master/Key_Files/1EBE542FEC563CF3.asc "1EBE542FEC563CF3.asc") 
+	- [GPG File](https://git.tayari.gg/tayari/PGP-Keys/-/blob/master/Key_Files/1EBE542FEC563CF3.gpg "GPG File"): [1EBE542FEC563CF3.gpg](https://git.tayari.gg/tayari/PGP-Keys/-/raw/master/Key_Files/1EBE542FEC563CF3.gpg "1EBE542FEC563CF3.gpg") 	
   
 - `875D9BE100A6A142` 16 March 2021 - 15 March 2024  
 	Comment: **Academic use ONLY, all other use is fraudulent.** More details in key comments.
