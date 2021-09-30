@@ -15,9 +15,9 @@ All keys that are used after they have been marked as compromised are not to be 
 		Checksum (SHA 512): B6EA8DA2359BEE7B55A3126D0099E8881D579B8CA2F5234420B35EE997A05AFBA383425FEA0B7A2352AE576EF077A1ACA3B36E4D746A9133EB56C5BA482FC74F
 
 - `1EBE542FEC563CF3` 28 September 2021 - 27 December 2021
-	- [ASC File](https://git.tayari.gg/tayari/PGP-Keys/-/blob/master/Key_Files/1EBE542FEC563CF3.asc "ASC File"): [1EBE542FEC563CF3.asc](https://git.tayari.gg/tayari/PGP-Keys/-/raw/master/Key_Files/1EBE542FEC563CF3.asc "1EBE542FEC563CF3.asc") 
+	- [ASC File](https://git.tayari.gg/tayari/PGP-Keys/-/blob/master/Key_Files/1EBE542FEC563CF3.asc "ASC File"): [1EBE542FEC563CF3.asc](https://git.tayari.gg/tayari/PGP-Keys/-/raw/master/Key_Files/1EBE542FEC563CF3.asc "1EBE542FEC563CF3.asc")   
 		Checksum (SHA512): 003881de4b1303f1bcaa975752fa5db7acebd55a1cbdf0fff20f1a76ff8d62eaf850dba392e0bfdc163284c0254bd550afbe0ad532a88824437ec255704df38f
-	- [GPG File](https://git.tayari.gg/tayari/PGP-Keys/-/blob/master/Key_Files/1EBE542FEC563CF3.gpg "GPG File"): [1EBE542FEC563CF3.gpg](https://git.tayari.gg/tayari/PGP-Keys/-/raw/master/Key_Files/1EBE542FEC563CF3.gpg "1EBE542FEC563CF3.gpg") 	
+	- [GPG File](https://git.tayari.gg/tayari/PGP-Keys/-/blob/master/Key_Files/1EBE542FEC563CF3.gpg "GPG File"): [1EBE542FEC563CF3.gpg](https://git.tayari.gg/tayari/PGP-Keys/-/raw/master/Key_Files/1EBE542FEC563CF3.gpg "1EBE542FEC563CF3.gpg")  	
 		Checksum (SHA512): 003881de4b1303f1bcaa975752fa5db7acebd55a1cbdf0fff20f1a76ff8d62eaf850dba392e0bfdc163284c0254bd550afbe0ad532a88824437ec255704df38f
   
 - `875D9BE100A6A142` 16 March 2021 - 15 March 2024  
