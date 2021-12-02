@@ -19,7 +19,14 @@ All keys that are used after they have been marked as compromised are not to be 
 		Checksum (SHA512): 003881de4b1303f1bcaa975752fa5db7acebd55a1cbdf0fff20f1a76ff8d62eaf850dba392e0bfdc163284c0254bd550afbe0ad532a88824437ec255704df38f
 	- [GPG File](https://git.tayari.gg/tayari/PGP-Keys/-/blob/master/Key_Files/1EBE542FEC563CF3.gpg "GPG File"): [1EBE542FEC563CF3.gpg](https://git.tayari.gg/tayari/PGP-Keys/-/raw/master/Key_Files/1EBE542FEC563CF3.gpg "1EBE542FEC563CF3.gpg")     
 		Checksum (SHA512): 003881de4b1303f1bcaa975752fa5db7acebd55a1cbdf0fff20f1a76ff8d62eaf850dba392e0bfdc163284c0254bd550afbe0ad532a88824437ec255704df38f
-  
+
+- `C3D94555B59815D7` 02 December 2021 - 02 March 2022  
+	Comment: **This key is only for personal communication. This is NOT for code signing, email correspondance or ANY other use.**
+	- [ASC File](https://git.tayari.gg/tayari/PGP-Keys/-/blob/master/Key_Files/C3D94555B59815D7.asc "ASC File"): [C3D94555B59815D7.asc](https://git.tayari.gg/tayari/PGP-Keys/-/raw/master/Key_Files/C3D94555B59815D7.asc "C3D94555B59815D7.asc")
+		Checksum (SHA512): 1f04b1ddde796f64d64f28b2e270f344460335a126866b88ec84a7cd6c541158a34af851a29c08312d687d21045e71c116f80706fdcc36caf3e72de5934301b2
+	- [GPG File](https://git.tayari.gg/tayari/PGP-Keys/-/blob/master/Key_Files/C3D94555B59815D7.gpg "GPG File") [C3D94555B59815D7.gpg](https://git.tayari.gg/tayari/PGP-Keys/-/raw/master/Key_Files/C3D94555B59815D7.gpg "C3D94555B59815D7.gpg")
+		Checksum (SHA512): c40993b38237e7f2fd81200dd6fff4e8c47ded078e2456a745519ab3ae46c1bffededaf807ca557d4ae9e58b84ef691fd6dbd64714b41134dec1a44eca416190
+
 - `875D9BE100A6A142` 16 March 2021 - 15 March 2024  
 	Comment: **Academic use ONLY, all other use is fraudulent.** More details in key comments.
 	- [ASC File](https://github.com/daylamtayari/PGP-Keys/tree/master/Key_Files/875D9BE100A6A142.asc "ASC File"): [875D9BE100A6A142.asc](https://raw.github.com/daylamtayari/PGP-Keys/master/Key_Files/875D9BE100A6A142.asc "875D9BE100A6A142.asc")  
