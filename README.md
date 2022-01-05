@@ -14,12 +14,6 @@ All keys that are used after they have been marked as compromised are not to be 
 	- [GPG File](http:/http://https://github.com/daylamtayari/PGP-Keys/tree/master/Key_Files/EA73-8D80-11BB-6318.pgp "GPG File"): [EA73-8D80-11BB-6318.gpg](https://raw.github.com/daylamtayari/PGP-Keys/master/Key_Files/EA73-8D80-11BB-6318.gpg "EA73-8D80-11BB-6318.gpg")  
 		Checksum (SHA 512): B6EA8DA2359BEE7B55A3126D0099E8881D579B8CA2F5234420B35EE997A05AFBA383425FEA0B7A2352AE576EF077A1ACA3B36E4D746A9133EB56C5BA482FC74F
 
-- `1EBE542FEC563CF3` 28 September 2021 - 27 December 2021
-	- [ASC File](https://git.tayari.gg/tayari/PGP-Keys/-/blob/master/Key_Files/1EBE542FEC563CF3.asc "ASC File"): [1EBE542FEC563CF3.asc](https://git.tayari.gg/tayari/PGP-Keys/-/raw/master/Key_Files/1EBE542FEC563CF3.asc "1EBE542FEC563CF3.asc")   
-		Checksum (SHA512): 003881de4b1303f1bcaa975752fa5db7acebd55a1cbdf0fff20f1a76ff8d62eaf850dba392e0bfdc163284c0254bd550afbe0ad532a88824437ec255704df38f
-	- [GPG File](https://git.tayari.gg/tayari/PGP-Keys/-/blob/master/Key_Files/1EBE542FEC563CF3.gpg "GPG File"): [1EBE542FEC563CF3.gpg](https://git.tayari.gg/tayari/PGP-Keys/-/raw/master/Key_Files/1EBE542FEC563CF3.gpg "1EBE542FEC563CF3.gpg")     
-		Checksum (SHA512): 003881de4b1303f1bcaa975752fa5db7acebd55a1cbdf0fff20f1a76ff8d62eaf850dba392e0bfdc163284c0254bd550afbe0ad532a88824437ec255704df38f
-
 - `C3D94555B59815D7` 02 December 2021 - 02 March 2022  
 	Comment: **This key is only for personal communication. This is NOT for code signing, email correspondance or ANY other use.**
 	- [ASC File](https://git.tayari.gg/tayari/PGP-Keys/-/blob/master/Key_Files/C3D94555B59815D7.asc "ASC File"): [C3D94555B59815D7.asc](https://git.tayari.gg/tayari/PGP-Keys/-/raw/master/Key_Files/C3D94555B59815D7.asc "C3D94555B59815D7.asc")
@@ -34,7 +28,20 @@ All keys that are used after they have been marked as compromised are not to be 
 	- [GPG File](https://github.com/daylamtayari/PGP-Keys/tree/master/Key_Files/875D9BE100A6A142.gpg "GPG File"): [875D9BE100A6A142.gpg](https://raw.github.com/daylamtayari/PGP-Keys/master/Key_Files/875D9BE100A6A142.gpg "875D9BE100A6A142.gpg")  
 		Checksum (SHA 512): 03e555985fdbb59ad88830d324de7b8de999ea5d3be31ed16e79d7df29d9097e3ac61d145934f3a80eed668f70d98e325923c28de70ec5faad3cf071a1a09881
 
+- `854FAE1421A616F1` 04 January 2022 - 04 April 2022  
+	Comment: **Exclusive for commit signing and other activites related to code signing.**  
+	- [ASC File](https://git.tayari.gg/tayari/PGP-Keys/-/blob/master/Key_Files/854FAE1421A616F1.asc "ASC File"): [854FAE1421A616F1.asc](https://git.tayari.gg/tayari/PGP-Keys/-/raw/master/Key_Files/854FAE1421A616F1.asc "854FAE1421A616F1.asc")   
+		Checksum (SHA512): 9b86d9e768457d4fd46730973a64514d772729db2be488aa7e3edd150b344ca6a8b72e64042543e6288c5c97912d9802026d79734315943d30ad03d19befb552
+	- [GPG File](https://git.tayari.gg/tayari/PGP-Keys/-/blob/master/Key_Files/854FAE1421A616F1.gpg "GPG File"): [854FAE1421A616F1.gpg](https://git.tayari.gg/tayari/PGP-Keys/-/raw/master/Key_Files/854FAE1421A616F1.gpg "854FAE1421A616F1.gpg")     
+		Checksum (SHA512): 0a41f53176f27e7f614910feb9d166c2e1ee767166764a3bea40039781010f3460e77ab6239a6f8a7eb00ec7d650703bd6b9b5d520981553e683680f71f12430
+
 # Revoked/Expired keys:
+
+- `1EBE542FEC563CF3` 28 September 2021 - 27 December 2021
+	- [ASC File](https://git.tayari.gg/tayari/PGP-Keys/-/blob/master/Key_Files/1EBE542FEC563CF3.asc "ASC File"): [1EBE542FEC563CF3.asc](https://git.tayari.gg/tayari/PGP-Keys/-/raw/master/Key_Files/1EBE542FEC563CF3.asc "1EBE542FEC563CF3.asc")   
+		Checksum (SHA512): 003881de4b1303f1bcaa975752fa5db7acebd55a1cbdf0fff20f1a76ff8d62eaf850dba392e0bfdc163284c0254bd550afbe0ad532a88824437ec255704df38f
+	- [GPG File](https://git.tayari.gg/tayari/PGP-Keys/-/blob/master/Key_Files/1EBE542FEC563CF3.gpg "GPG File"): [1EBE542FEC563CF3.gpg](https://git.tayari.gg/tayari/PGP-Keys/-/raw/master/Key_Files/1EBE542FEC563CF3.gpg "1EBE542FEC563CF3.gpg")     
+		Checksum (SHA512): 003881de4b1303f1bcaa975752fa5db7acebd55a1cbdf0fff20f1a76ff8d62eaf850dba392e0bfdc163284c0254bd550afbe0ad532a88824437ec255704df38f
 
 - `6D2B2B46D657C5D9` 13 Nov 2020 - 13 March 2021
 	- [ASC File](https://github.com/daylamtayari/PGP-Keys/tree/master/Key_Files/6D2B-2B46-D657-C5D9.asc "ASC File"): [6D2B-2B46-D657-C5D9.asc](https://raw.github.com/daylamtayari/PGP-Keys/master/Key_Files/6D2B-2B46-D657-C5D9.asc "6D2B-2B46-D657-C5D9.asc")  
