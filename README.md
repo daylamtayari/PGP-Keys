@@ -14,13 +14,6 @@ All keys that are used after they have been marked as compromised are not to be 
 	- [GPG File](http:/http://https://pgp.tayari.gg/keys/EA73-8D80-11BB-6318.pgp "GPG File"): [EA73-8D80-11BB-6318.gpg](https://pgp.tayari.gg/keys/EA73-8D80-11BB-6318.gpg "EA73-8D80-11BB-6318.gpg")  
 		Checksum (SHA 512): B6EA8DA2359BEE7B55A3126D0099E8881D579B8CA2F5234420B35EE997A05AFBA383425FEA0B7A2352AE576EF077A1ACA3B36E4D746A9133EB56C5BA482FC74F
 
-- `C3D94555B59815D7` 02 December 2021 - 02 March 2022  
-	Comment: **This key is only for personal communication. This is NOT for code signing, email correspondance or ANY other use.**
-	- [ASC File](https://pgp.tayari.gg/keys/C3D94555B59815D7.asc "ASC File"): [C3D94555B59815D7.asc](https://pgp.tayari.gg/keys/C3D94555B59815D7.asc "C3D94555B59815D7.asc")  
-		Checksum (SHA512): 1f04b1ddde796f64d64f28b2e270f344460335a126866b88ec84a7cd6c541158a34af851a29c08312d687d21045e71c116f80706fdcc36caf3e72de5934301b2
-	- [GPG File](https://pgp.tayari.gg/keys/C3D94555B59815D7.gpg "GPG File") [C3D94555B59815D7.gpg](https://pgp.tayari.gg/keys/C3D94555B59815D7.gpg "C3D94555B59815D7.gpg")  
-		Checksum (SHA512): c40993b38237e7f2fd81200dd6fff4e8c47ded078e2456a745519ab3ae46c1bffededaf807ca557d4ae9e58b84ef691fd6dbd64714b41134dec1a44eca416190
-
 - `875D9BE100A6A142` 16 March 2021 - 15 March 2024  
 	Comment: **Academic use ONLY, all other use is fraudulent.** More details in key comments.
 	- [ASC File](https://pgp.tayari.gg/keys/875D9BE100A6A142.asc "ASC File"): [875D9BE100A6A142.asc](https://pgp.tayari.gg/keys/875D9BE100A6A142.asc "875D9BE100A6A142.asc")  
@@ -73,6 +66,14 @@ All keys that are used after they have been marked as compromised are not to be 
 		Checksum (SHA 512): f1bddbd6d95cdbb772dfee7ef271e8a43c6b151aad368468e04769f6f2ae471a4ca0ed26db7860fb8d43f466c013c7116a37f321283e5905618169a78abf74e1
 	- [GPG File](https://pgp.tayari.gg/expired/75736A28549968E1.gpg "GPG File"): [75736A28549968E1.gpg](https://pgp.tayari.gg/expired/75736A28549968E1.gpg "75736A28549968E1.gpg")  
 		Checksum (SHA 512): 8fb0d0ed9a234a8c8abd197ca2a636a7f409354cdb09ae0bd04eec45850949737ad6d5098cc7a19f8c07e7ccb9b500ee958e15611bd0bd258a2295dcfe7d9ab4
+
+- `C3D94555B59815D7` 02 December 2021 - 02 March 2022  
+	Comment: **This key is only for personal communication. This is NOT for code signing, email correspondance or ANY other use.**
+	- [ASC File](https://pgp.tayari.gg/keys/C3D94555B59815D7.asc "ASC File"): [C3D94555B59815D7.asc](https://pgp.tayari.gg/keys/C3D94555B59815D7.asc "C3D94555B59815D7.asc")  
+		Checksum (SHA512): 1f04b1ddde796f64d64f28b2e270f344460335a126866b88ec84a7cd6c541158a34af851a29c08312d687d21045e71c116f80706fdcc36caf3e72de5934301b2
+	- [GPG File](https://pgp.tayari.gg/keys/C3D94555B59815D7.gpg "GPG File") [C3D94555B59815D7.gpg](https://pgp.tayari.gg/keys/C3D94555B59815D7.gpg "C3D94555B59815D7.gpg")  
+		Checksum (SHA512): c40993b38237e7f2fd81200dd6fff4e8c47ded078e2456a745519ab3ae46c1bffededaf807ca557d4ae9e58b84ef691fd6dbd64714b41134dec1a44eca416190
+
 
 # Compromised keys:
 
