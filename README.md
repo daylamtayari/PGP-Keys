@@ -5,6 +5,9 @@ This repository includes all public PGP keys that I currently use, have used in 
 The exact dates for when the keys were being used is included so anything signed outside of those dates did not originate from me.  
 All keys that are used after they have been marked as compromised are not to be considered as being a legitimate message from me.  
 
+This repository is not restricted to being committed to by PGP keys which are exclusively for code signing.  
+It can be updated by any valid and active PGP key of mine.
+
 
 # Active keys:
 
@@ -21,12 +24,12 @@ All keys that are used after they have been marked as compromised are not to be 
 	- [GPG File](https://pgp.tayari.gg/keys/875D9BE100A6A142.gpg "GPG File"): [875D9BE100A6A142.gpg](https://pgp.tayari.gg/keys/875D9BE100A6A142.gpg "875D9BE100A6A142.gpg")  
 		Checksum (SHA 512): 03e555985fdbb59ad88830d324de7b8de999ea5d3be31ed16e79d7df29d9097e3ac61d145934f3a80eed668f70d98e325923c28de70ec5faad3cf071a1a09881
 
-- `854FAE1421A616F1` 04 January 2022 - 04 April 2022  
+- `DDADC44D84DEF088` 06 April 2022 - 05 July 2022
 	Comment: **Exclusive for commit signing and other activites related to code signing.**  
-	- [ASC File](https://pgp.tayari.gg/keys/854FAE1421A616F1.asc "ASC File"): [854FAE1421A616F1.asc](https://pgp.tayari.gg/keys/854FAE1421A616F1.asc "854FAE1421A616F1.asc")   
-		Checksum (SHA512): 9b86d9e768457d4fd46730973a64514d772729db2be488aa7e3edd150b344ca6a8b72e64042543e6288c5c97912d9802026d79734315943d30ad03d19befb552
-	- [GPG File](https://pgp.tayari.gg/keys/854FAE1421A616F1.gpg "GPG File"): [854FAE1421A616F1.gpg](https://pgp.tayari.gg/keys/854FAE1421A616F1.gpg "854FAE1421A616F1.gpg")     
-		Checksum (SHA512): 0a41f53176f27e7f614910feb9d166c2e1ee767166764a3bea40039781010f3460e77ab6239a6f8a7eb00ec7d650703bd6b9b5d520981553e683680f71f12430
+	- [ASC File](https://pgp.tayari.gg/keys/DDADC44D84DEF088.asc "ASC File"): [DDADC44D84DEF088.asc](https://pgp.tayari.gg/keys/DDADC44D84DEF088.asc "DDADC44D84DEF088.asc")   
+		Checksum (SHA512): 03e84c14bd032c337a38072e211c81e2663a2bdeefcc9a35dc83b0b0433e413ca52313d5bdff3a922b1a36dc9b61e8d1f40eecfb6f9364297eb18e71ea5c0bf2
+	- [GPG File](https://pgp.tayari.gg/keys/DDADC44D84DEF088.gpg "GPG File"): [DDADC44D84DEF088.gpg](https://pgp.tayari.gg/keys/DDADC44D84DEF088.gpg "DDADC44D84DEF088.gpg")     
+		Checksum (SHA512): 334b6da5a24c54ace6b0fc5e4d3bdc4d422f23fd8c4b6dcc011bd34c19b5db897e6945b4397db6ae7c40ffffa53409ffe53d0fa609af41ac9f4c5ca715e031c0
 
 ## Email PGP Keys:
 
@@ -37,7 +40,7 @@ All keys that are used after they have been marked as compromised are not to be 
 	- [GPG File](https://pgp.tayari.gg/keys/E3571D91F53025CD.gpg "GPG File"): [E3571D91F53025CD.gpg](https://pgp.tayari.gg/keys/E3571D91F53025CD.gpg "E3571D91F53025CD.gpg")     
 		Checksum (SHA512): 56c88fc84fd4817c22d175187efcbb85d7c3143228f8084b2600a2e8ee6f99f554f65ea6ded3c392cb565ceb08f5a308ab8df89011a991ad25505b831d7ae9f7
 
-- `854FAE1421A616F1` 08 November 2021 - 08 November 2022  
+- `76225DAB3E509453` 08 November 2021 - 08 November 2022  
 	Comment: **Solely for email correspondance with 'daylamtayari@tayari.gg', all other uses are fraudulent.**
 	- [ASC File](https://pgp.tayari.gg/keys/76225DAB3E509453.asc "ASC File"): [76225DAB3E509453.asc](https://pgp.tayari.gg/keys/76225DAB3E509453.asc "76225DAB3E509453.asc")   
 		Checksum (SHA512): ea8ae9902cfcafdeb141a974c9089131bf9d4142010f9dc117dafb58f5bae4d8cd43e1056aad8b73b1ba52c0ed1e1a6e5f79e97485b0194314ba3bd86bd8de91
@@ -73,6 +76,13 @@ All keys that are used after they have been marked as compromised are not to be 
 		Checksum (SHA512): 1f04b1ddde796f64d64f28b2e270f344460335a126866b88ec84a7cd6c541158a34af851a29c08312d687d21045e71c116f80706fdcc36caf3e72de5934301b2
 	- [GPG File](https://pgp.tayari.gg/keys/C3D94555B59815D7.gpg "GPG File") [C3D94555B59815D7.gpg](https://pgp.tayari.gg/keys/C3D94555B59815D7.gpg "C3D94555B59815D7.gpg")  
 		Checksum (SHA512): c40993b38237e7f2fd81200dd6fff4e8c47ded078e2456a745519ab3ae46c1bffededaf807ca557d4ae9e58b84ef691fd6dbd64714b41134dec1a44eca416190
+
+- `854FAE1421A616F1` 04 January 2022 - 04 April 2022  
+	Comment: **Exclusive for commit signing and other activites related to code signing.**  
+	- [ASC File](https://pgp.tayari.gg/keys/854FAE1421A616F1.asc "ASC File"): [854FAE1421A616F1.asc](https://pgp.tayari.gg/keys/854FAE1421A616F1.asc "854FAE1421A616F1.asc")   
+		Checksum (SHA512): 9b86d9e768457d4fd46730973a64514d772729db2be488aa7e3edd150b344ca6a8b72e64042543e6288c5c97912d9802026d79734315943d30ad03d19befb552
+	- [GPG File](https://pgp.tayari.gg/keys/854FAE1421A616F1.gpg "GPG File"): [854FAE1421A616F1.gpg](https://pgp.tayari.gg/keys/854FAE1421A616F1.gpg "854FAE1421A616F1.gpg")     
+		Checksum (SHA512): 0a41f53176f27e7f614910feb9d166c2e1ee767166764a3bea40039781010f3460e77ab6239a6f8a7eb00ec7d650703bd6b9b5d520981553e683680f71f12430
 
 
 # Compromised keys:
