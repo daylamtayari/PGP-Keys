@@ -31,14 +31,14 @@ It can be updated by any valid and active PGP key of mine.
 	- [GPG File](https://pgp.tayari.gg/keys/DDADC44D84DEF088.gpg "GPG File"): [DDADC44D84DEF088.gpg](https://pgp.tayari.gg/keys/DDADC44D84DEF088.gpg "DDADC44D84DEF088.gpg")     
 		Checksum (SHA512): 334b6da5a24c54ace6b0fc5e4d3bdc4d422f23fd8c4b6dcc011bd34c19b5db897e6945b4397db6ae7c40ffffa53409ffe53d0fa609af41ac9f4c5ca715e031c0
 
-## Email PGP Keys:
+### Email PGP Keys:
 
-- `E3571D91F53025CD` 04 June 2021 - 04 June 2022  
+- `6F5B06C80B37794B` 15 June 2021 - 12 December 2022  
 	Comment: **Solely used for email correspondance with the email 'daylam@tayari.gg', all other use is fraudulent.**
-	- [ASC File](https://pgp.tayari.gg/keys/E3571D91F53025CD.asc "ASC File"): [E3571D91F53025CD.asc](https://pgp.tayari.gg/keys/E3571D91F53025CD.asc "E3571D91F53025CD.asc")   
-		Checksum (SHA512): 08c08f650956519e4f55cbfd4cd10ecea251225a6a3dfa5fb574a6bfe63ea9c227509985e678c3fc098799b742939a1a47fb2740f510059a9e288a2be28184ca
-	- [GPG File](https://pgp.tayari.gg/keys/E3571D91F53025CD.gpg "GPG File"): [E3571D91F53025CD.gpg](https://pgp.tayari.gg/keys/E3571D91F53025CD.gpg "E3571D91F53025CD.gpg")     
-		Checksum (SHA512): 56c88fc84fd4817c22d175187efcbb85d7c3143228f8084b2600a2e8ee6f99f554f65ea6ded3c392cb565ceb08f5a308ab8df89011a991ad25505b831d7ae9f7
+	- [ASC File](https://pgp.tayari.gg/keys/6F5B06C80B37794B.asc "ASC File"): [6F5B06C80B37794B.asc](https://pgp.tayari.gg/keys/6F5B06C80B37794B.asc "6F5B06C80B37794B.asc")   
+		Checksum (SHA512): 7e3458a0cee9619f5cf1505d4ce1a790ec79cd4c086de6713a59572e6340bd1e580702e1d73bbfd550c32f5970dc7a57cd2d68e3aa26c06295d03e7fa9ee306a
+	- [GPG File](https://pgp.tayari.gg/keys/6F5B06C80B37794B.gpg "GPG File"): [6F5B06C80B37794B.gpg](https://pgp.tayari.gg/keys/6F5B06C80B37794B.gpg "6F5B06C80B37794B.gpg")     
+		Checksum (SHA512): f03318698630849a6e157ba2e7dabbdff2ee76a546837eb846b8bdb37f899adda91bb96e4409f6213b6cd9a48be3c77b6670b0f1e6b1b782dbc66eab4d71c448
 
 - `76225DAB3E509453` 08 November 2021 - 08 November 2022  
 	Comment: **Solely for email correspondance with 'daylamtayari@tayari.gg', all other uses are fraudulent.**
@@ -49,7 +49,7 @@ It can be updated by any valid and active PGP key of mine.
 
 
 
-# Revoked/Expired keys:
+# Expired keys:
 
 - `1EBE542FEC563CF3` 28 September 2021 - 27 December 2021
 	- [ASC File](https://pgp.tayari.gg/expired/1EBE542FEC563CF3.asc "ASC File"): [1EBE542FEC563CF3.asc](https://pgp.tayari.gg/expired/1EBE542FEC563CF3.asc "1EBE542FEC563CF3.asc")   
@@ -84,6 +84,12 @@ It can be updated by any valid and active PGP key of mine.
 	- [GPG File](https://pgp.tayari.gg/keys/854FAE1421A616F1.gpg "GPG File"): [854FAE1421A616F1.gpg](https://pgp.tayari.gg/keys/854FAE1421A616F1.gpg "854FAE1421A616F1.gpg")     
 		Checksum (SHA512): 0a41f53176f27e7f614910feb9d166c2e1ee767166764a3bea40039781010f3460e77ab6239a6f8a7eb00ec7d650703bd6b9b5d520981553e683680f71f12430
 
+- `E3571D91F53025CD` 04 June 2021 - 04 June 2022  
+	Comment: **Solely used for email correspondance with the email 'daylam@tayari.gg', all other use is fraudulent.**
+	- [ASC File](https://pgp.tayari.gg/keys/E3571D91F53025CD.asc "ASC File"): [E3571D91F53025CD.asc](https://pgp.tayari.gg/keys/E3571D91F53025CD.asc "E3571D91F53025CD.asc")   
+		Checksum (SHA512): 08c08f650956519e4f55cbfd4cd10ecea251225a6a3dfa5fb574a6bfe63ea9c227509985e678c3fc098799b742939a1a47fb2740f510059a9e288a2be28184ca
+	- [GPG File](https://pgp.tayari.gg/keys/E3571D91F53025CD.gpg "GPG File"): [E3571D91F53025CD.gpg](https://pgp.tayari.gg/keys/E3571D91F53025CD.gpg "E3571D91F53025CD.gpg")     
+		Checksum (SHA512): 56c88fc84fd4817c22d175187efcbb85d7c3143228f8084b2600a2e8ee6f99f554f65ea6ded3c392cb565ceb08f5a308ab8df89011a991ad25505b831d7ae9f7
 
 # Compromised keys:
 
