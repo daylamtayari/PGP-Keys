@@ -72,23 +72,23 @@ It can be updated by any valid and active PGP key of mine.
 
 - `C3D94555B59815D7` 02 December 2021 - 02 March 2022  
 	Comment: **This key is only for personal communication. This is NOT for code signing, email correspondance or ANY other use.**
-	- [ASC File](https://pgp.tayari.gg/keys/C3D94555B59815D7.asc "ASC File"): [C3D94555B59815D7.asc](https://pgp.tayari.gg/keys/C3D94555B59815D7.asc "C3D94555B59815D7.asc")  
+	- [ASC File](https://pgp.tayari.gg/expired/C3D94555B59815D7.asc "ASC File"): [C3D94555B59815D7.asc](https://pgp.tayari.gg/expired/C3D94555B59815D7.asc "C3D94555B59815D7.asc")  
 		Checksum (SHA512): 1f04b1ddde796f64d64f28b2e270f344460335a126866b88ec84a7cd6c541158a34af851a29c08312d687d21045e71c116f80706fdcc36caf3e72de5934301b2
-	- [GPG File](https://pgp.tayari.gg/keys/C3D94555B59815D7.gpg "GPG File") [C3D94555B59815D7.gpg](https://pgp.tayari.gg/keys/C3D94555B59815D7.gpg "C3D94555B59815D7.gpg")  
+	- [GPG File](https://pgp.tayari.gg/expired/C3D94555B59815D7.gpg "GPG File") [C3D94555B59815D7.gpg](https://pgp.tayari.gg/expired/C3D94555B59815D7.gpg "C3D94555B59815D7.gpg")  
 		Checksum (SHA512): c40993b38237e7f2fd81200dd6fff4e8c47ded078e2456a745519ab3ae46c1bffededaf807ca557d4ae9e58b84ef691fd6dbd64714b41134dec1a44eca416190
 
 - `854FAE1421A616F1` 04 January 2022 - 04 April 2022  
 	Comment: **Exclusive for commit signing and other activites related to code signing.**  
-	- [ASC File](https://pgp.tayari.gg/keys/854FAE1421A616F1.asc "ASC File"): [854FAE1421A616F1.asc](https://pgp.tayari.gg/keys/854FAE1421A616F1.asc "854FAE1421A616F1.asc")   
+	- [ASC File](https://pgp.tayari.gg/expired/854FAE1421A616F1.asc "ASC File"): [854FAE1421A616F1.asc](https://pgp.tayari.gg/expired/854FAE1421A616F1.asc "854FAE1421A616F1.asc")   
 		Checksum (SHA512): 9b86d9e768457d4fd46730973a64514d772729db2be488aa7e3edd150b344ca6a8b72e64042543e6288c5c97912d9802026d79734315943d30ad03d19befb552
-	- [GPG File](https://pgp.tayari.gg/keys/854FAE1421A616F1.gpg "GPG File"): [854FAE1421A616F1.gpg](https://pgp.tayari.gg/keys/854FAE1421A616F1.gpg "854FAE1421A616F1.gpg")     
+	- [GPG File](https://pgp.tayari.gg/expired/854FAE1421A616F1.gpg "GPG File"): [854FAE1421A616F1.gpg](https://pgp.tayari.gg/expired/854FAE1421A616F1.gpg "854FAE1421A616F1.gpg")     
 		Checksum (SHA512): 0a41f53176f27e7f614910feb9d166c2e1ee767166764a3bea40039781010f3460e77ab6239a6f8a7eb00ec7d650703bd6b9b5d520981553e683680f71f12430
 
 - `E3571D91F53025CD` 04 June 2021 - 04 June 2022  
 	Comment: **Solely used for email correspondance with the email 'daylam@tayari.gg', all other use is fraudulent.**
-	- [ASC File](https://pgp.tayari.gg/keys/E3571D91F53025CD.asc "ASC File"): [E3571D91F53025CD.asc](https://pgp.tayari.gg/keys/E3571D91F53025CD.asc "E3571D91F53025CD.asc")   
+	- [ASC File](https://pgp.tayari.gg/expired/E3571D91F53025CD.asc "ASC File"): [E3571D91F53025CD.asc](https://pgp.tayari.gg/expired/E3571D91F53025CD.asc "E3571D91F53025CD.asc")   
 		Checksum (SHA512): 08c08f650956519e4f55cbfd4cd10ecea251225a6a3dfa5fb574a6bfe63ea9c227509985e678c3fc098799b742939a1a47fb2740f510059a9e288a2be28184ca
-	- [GPG File](https://pgp.tayari.gg/keys/E3571D91F53025CD.gpg "GPG File"): [E3571D91F53025CD.gpg](https://pgp.tayari.gg/keys/E3571D91F53025CD.gpg "E3571D91F53025CD.gpg")     
+	- [GPG File](https://pgp.tayari.gg/expired/E3571D91F53025CD.gpg "GPG File"): [E3571D91F53025CD.gpg](https://pgp.tayari.gg/expired/E3571D91F53025CD.gpg "E3571D91F53025CD.gpg")     
 		Checksum (SHA512): 56c88fc84fd4817c22d175187efcbb85d7c3143228f8084b2600a2e8ee6f99f554f65ea6ded3c392cb565ceb08f5a308ab8df89011a991ad25505b831d7ae9f7
 
 # Compromised keys:
