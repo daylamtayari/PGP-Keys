@@ -33,7 +33,7 @@ It can be updated by any valid and active PGP key of mine.
 
 ### Email PGP Keys:
 
-- `6F5B06C80B37794B` 15 June 2021 - 12 December 2022  
+- `6F5B06C80B37794B` 15 June 2022 - 12 December 2022  
 	Comment: **Solely used for email correspondance with the email 'daylam@tayari.gg', all other use is fraudulent.**
 	- [ASC File](https://pgp.tayari.gg/keys/6F5B06C80B37794B.asc "ASC File"): [6F5B06C80B37794B.asc](https://pgp.tayari.gg/keys/6F5B06C80B37794B.asc "6F5B06C80B37794B.asc")   
 		Checksum (SHA512): 7e3458a0cee9619f5cf1505d4ce1a790ec79cd4c086de6713a59572e6340bd1e580702e1d73bbfd550c32f5970dc7a57cd2d68e3aa26c06295d03e7fa9ee306a
