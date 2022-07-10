@@ -24,12 +24,12 @@ It can be updated by any valid and active PGP key of mine.
 	- [GPG File](https://pgp.tayari.gg/keys/875D9BE100A6A142.gpg "GPG File"): [875D9BE100A6A142.gpg](https://pgp.tayari.gg/keys/875D9BE100A6A142.gpg "875D9BE100A6A142.gpg")  
 		Checksum (SHA 512): 03e555985fdbb59ad88830d324de7b8de999ea5d3be31ed16e79d7df29d9097e3ac61d145934f3a80eed668f70d98e325923c28de70ec5faad3cf071a1a09881
 
-- `DDADC44D84DEF088` 06 April 2022 - 05 July 2022
+- `C5E8EF411D52BD6A` 10 July 2022 - 06 January 2023
 	Comment: **Exclusive for commit signing and other activites related to code signing.**  
-	- [ASC File](https://pgp.tayari.gg/keys/DDADC44D84DEF088.asc "ASC File"): [DDADC44D84DEF088.asc](https://pgp.tayari.gg/keys/DDADC44D84DEF088.asc "DDADC44D84DEF088.asc")   
-		Checksum (SHA512): 03e84c14bd032c337a38072e211c81e2663a2bdeefcc9a35dc83b0b0433e413ca52313d5bdff3a922b1a36dc9b61e8d1f40eecfb6f9364297eb18e71ea5c0bf2
-	- [GPG File](https://pgp.tayari.gg/keys/DDADC44D84DEF088.gpg "GPG File"): [DDADC44D84DEF088.gpg](https://pgp.tayari.gg/keys/DDADC44D84DEF088.gpg "DDADC44D84DEF088.gpg")     
-		Checksum (SHA512): 334b6da5a24c54ace6b0fc5e4d3bdc4d422f23fd8c4b6dcc011bd34c19b5db897e6945b4397db6ae7c40ffffa53409ffe53d0fa609af41ac9f4c5ca715e031c0
+	- [ASC File](https://pgp.tayari.gg/keys/C5E8EF411D52BD6A.asc "ASC File"): [C5E8EF411D52BD6A.asc](https://pgp.tayari.gg/keys/C5E8EF411D52BD6A.asc "C5E8EF411D52BD6A.asc")   
+		Checksum (SHA512): 08ff2411dce6168481545b50523dff3159ff267ae72fe728602314941aa34b9ca7bf19db6ff23f4723118e68a21e75f8b1eef820ced740dae19038b825812f21
+	- [GPG File](https://pgp.tayari.gg/keys/C5E8EF411D52BD6A.gpg "GPG File"): [C5E8EF411D52BD6A.gpg](https://pgp.tayari.gg/keys/C5E8EF411D52BD6A.gpg "C5E8EF411D52BD6A.gpg")     
+		Checksum (SHA512): e97a3aa9d1f0c6d6bf9097296ec3490b0146f7729c7c8c5a991c7a2509c2cea5520159fae15d1c73a901749cd30d62fb517b9b442e6375b8ff4d855f3d0b9c82
 
 ### Email PGP Keys:
 
@@ -90,6 +90,13 @@ It can be updated by any valid and active PGP key of mine.
 		Checksum (SHA512): 08c08f650956519e4f55cbfd4cd10ecea251225a6a3dfa5fb574a6bfe63ea9c227509985e678c3fc098799b742939a1a47fb2740f510059a9e288a2be28184ca
 	- [GPG File](https://pgp.tayari.gg/expired/E3571D91F53025CD.gpg "GPG File"): [E3571D91F53025CD.gpg](https://pgp.tayari.gg/expired/E3571D91F53025CD.gpg "E3571D91F53025CD.gpg")     
 		Checksum (SHA512): 56c88fc84fd4817c22d175187efcbb85d7c3143228f8084b2600a2e8ee6f99f554f65ea6ded3c392cb565ceb08f5a308ab8df89011a991ad25505b831d7ae9f7
+
+- `DDADC44D84DEF088` 06 April 2022 - 05 July 2022
+	Comment: **Exclusive for commit signing and other activites related to code signing.**  
+	- [ASC File](https://pgp.tayari.gg/expired/DDADC44D84DEF088.asc "ASC File"): [DDADC44D84DEF088.asc](https://pgp.tayari.gg/expired/DDADC44D84DEF088.asc "DDADC44D84DEF088.asc")   
+		Checksum (SHA512): 03e84c14bd032c337a38072e211c81e2663a2bdeefcc9a35dc83b0b0433e413ca52313d5bdff3a922b1a36dc9b61e8d1f40eecfb6f9364297eb18e71ea5c0bf2
+	- [GPG File](https://pgp.tayari.gg/expired/DDADC44D84DEF088.gpg "GPG File"): [DDADC44D84DEF088.gpg](https://pgp.tayari.gg/expired/DDADC44D84DEF088.gpg "DDADC44D84DEF088.gpg")     
+		Checksum (SHA512): 334b6da5a24c54ace6b0fc5e4d3bdc4d422f23fd8c4b6dcc011bd34c19b5db897e6945b4397db6ae7c40ffffa53409ffe53d0fa609af41ac9f4c5ca715e031c0
 
 # Compromised keys:
 
